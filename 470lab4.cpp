@@ -1,5 +1,5 @@
 // ense470 lab4: osg test
-// Name: Wei Wang 200 272 278
+
 // description: a simple program that allow user to load osg models as they wish
 
 #include <osgViewer/Viewer>
